@@ -6,5 +6,9 @@ Do the labs using python in your local system or using [Google Colab](https://co
 
 1. Data preparation
 2. Simple Neural Network from scratch (and with keras)
-3. ...
+3. MLP for classification
+4. MLP for prediction
+5. Convolutional NN
+6. Recurrent NN
+7. ...
 
