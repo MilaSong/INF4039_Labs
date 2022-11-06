@@ -10,5 +10,7 @@ Do the labs using python in your local system or using [Google Colab](https://co
 4. MLP for prediction
 5. Convolutional NN
 6. Recurrent NN
-7. ...
+7. LSTM
+8. Autoencoders
+9. ...
 
