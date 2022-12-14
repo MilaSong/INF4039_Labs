@@ -12,5 +12,5 @@ Do the labs using python in your local system or using [Google Colab](https://co
 6. Recurrent NN
 7. LSTM
 8. Autoencoders
-9. ...
+9. Transformers
 
